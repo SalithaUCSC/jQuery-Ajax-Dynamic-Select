@@ -1,4 +1,4 @@
-# Dynamic and dependent Select Box using jQuery, Ajax and PHP
+# Dynamic and dependent Select Box using jQuery, Ajax, PHP and MYSQL
 
 This application fetched mobile phone models belongs to a particular mobile phone brand, selected from a dropdown menu...
 
